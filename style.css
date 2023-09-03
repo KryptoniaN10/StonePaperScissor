@@ -1,0 +1,24 @@
+#gamediv{
+    font-family: "Brush Script MT",cursive;
+    border:4px solid;
+    border-radius: 30px;
+    padding: 20px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.choiceButton{
+    line-height: 30px;
+    width: 100px;
+    border: 2px solid;
+    border-radius: 10px;
+    font-family: cursive
+}
+#playertext{
+    color: blue;
+}
+#computertext{
+    color: red;
+}
+#scoreBoard{
+    background-color: bisque;
+}

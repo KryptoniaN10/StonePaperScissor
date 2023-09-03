@@ -58,6 +58,6 @@ function checkwinner(){
     }
     else if(result=="You Lose") {
         computerscore+=1;
-        scoreC.textContent=`player: ${playerscore}`
+        scoreC.textContent=`computer: ${computerscore}`
     }
 }
